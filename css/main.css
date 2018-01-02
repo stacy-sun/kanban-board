@@ -1,0 +1,108 @@
+body {
+  font-family: "open sans", sans-serif;
+  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%); 
+}
+
+
+body .container {
+  height: 100vh;
+  margin-top: 20px;
+}
+
+.logo {
+  margin-top: 0;
+  font-size: 20px;
+  color: inherit;
+}
+
+.logo:hover, .logo:focus{
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo:visited{
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo img {
+  width: 50px;
+  height: 50px;
+  margin-right: 15px;
+}
+
+.main-form {
+  margin-top: 70px;
+}
+
+.form-signin, .form-signup {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading, .form-signup .form-signup-heading,
+.form-signin .checkbox, .form-signup .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox, .form-signup .checkbox{
+  font-weight: normal;
+}
+.form-signin .form-control, .form-signup .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-signin .form-control:focus, .form-signup .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="text"], .form-signup input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"], .form-signup input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.form-signin .btn, .form-signup .btn  {
+  margin-bottom: 10px;
+}
+
+.btn {
+  background-color: #25c6da;
+  border-color: #25c6da;
+  margin-top: 10px;
+  border-radius: 6px;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+
+}
+
+.btn:hover {
+  background-color: #25c8dada;
+  border-color: #25c8dada;
+  box-shadow: none;
+}
+
+.btn:focus {
+  background-color: #25c6da;
+  border-color: #25c6da;
+  box-shadow: none;
+}
+
+.btn:active {
+  background-color: #25c6da;
+  border-color: #25c6da;
+  box-shadow: none;
+}
+
+
+.verify-msg {
+  padding-top: 100px;
+  font-size: 16px;
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-315.12 -108 229.604 229.604">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #e43a35;
+      }
+
+      .cls-4 {
+        fill: #ffb200;
+      }
+
+      .cls-5 {
+        fill: #9c28b1;
+      }
+
+      .cls-6 {
+        fill: #25c6da;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-1" width="229.604" height="229.604" rx="40" transform="translate(-315.12 -108)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" class="cls-2">
+    <g id="Group_19" data-name="Group 19" transform="translate(-315.12 -108)">
+      <rect id="Rectangle_36" data-name="Rectangle 36" class="cls-3" width="107.149" height="76.825"/>
+      <rect id="Rectangle_37" data-name="Rectangle 37" class="cls-4" width="107.149" height="138.772" transform="translate(0 90.832)"/>
+      <rect id="Rectangle_38" data-name="Rectangle 38" class="cls-5" width="107.149" height="138.772" transform="translate(122.456)"/>
+      <rect id="Rectangle_39" data-name="Rectangle 39" class="cls-6" width="107.149" height="76.825" transform="translate(122.456 152.779)"/>
+    </g>
+  </g>
+</svg>
